@@ -1,5 +1,8 @@
-# Nomad Coffee
+## Nomad Coffee
+Website for Nomad Coffee, a local coffee shop in Indian Trail, NC. 
 
-Personal project for a local coffee shop, using HTML, CSS, and JS
+## Build status
+Live on the [website](https://webpages.charlotte.edu/jmagnott/itis3135/project4/)
 
-To view this project, clone the repo or view the [production website](https://webpages.charlotte.edu/jmagnott/itis3135/project4/)
+## Tech/framework used
+HTML, CSS, JS
